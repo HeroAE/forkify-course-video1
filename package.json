@@ -11,13 +11,20 @@
   "bugs": {
     "url": "https://github.com/HeroAE/forkify-course-video1/issues"
   },
-  "keywords": ["recipe", "javascript", "parcel", "sass", "web-app", "food"],
+  "keywords": [
+    "recipe",
+    "javascript",
+    "parcel",
+    "sass",
+    "web-app",
+    "food"
+  ],
   "engines": {
     "node": "14.x"
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --no-minify"
   },
   "author": "Abdullah Ergin",
   "license": "ISC",

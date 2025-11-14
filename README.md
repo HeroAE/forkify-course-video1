@@ -5,7 +5,7 @@ A modern recipe application built with vanilla JavaScript that allows users to s
 ## 🚀 Features
 
 - Search for over 1,000,000 recipes
-- Bookmark your favorite recipes  
+- Bookmark your favorite recipes
 - Upload and share your own recipes
 - Adjust serving sizes automatically
 - Responsive design for all devices
@@ -22,22 +22,26 @@ A modern recipe application built with vanilla JavaScript that allows users to s
 ## 🏗️ Installation & Setup
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/HeroAE/forkify-course-video1.git
 cd forkify-course-video1
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Start development server:
+
 ```bash
 npm start
 ```
 
 4. Build for production:
+
 ```bash
 npm run build
 ```
