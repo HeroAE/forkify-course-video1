@@ -1,8 +1,17 @@
 {
-  "name": "forkify",
+  "name": "forkify-recipe-app",
   "version": "1.0.0",
-  "description": "Recipe application",
-  "default": "index.html",
+  "description": "A modern recipe application built with vanilla JavaScript. Search recipes, bookmark favorites, and upload custom recipes.",
+  "main": "index.html",
+  "homepage": "https://github.com/HeroAE/forkify-course-video1#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HeroAE/forkify-course-video1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HeroAE/forkify-course-video1/issues"
+  },
+  "keywords": ["recipe", "javascript", "parcel", "sass", "web-app", "food"],
   "engines": {
     "node": "14.x"
   },
